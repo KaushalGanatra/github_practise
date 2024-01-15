@@ -1,2 +1,4 @@
 This file is for new branch
 Here is the content
+
+This is a new line I'm adding after merge from newbranch
